@@ -9,7 +9,7 @@ In this project, I will employ the Scale-Invariant Feature Transform (SIFT) for 
 
 Clone this respository
 ```
-    pip install https://github.com/SpiderMan-XiaoDo/bag-of-visual-word-finger-classifier.git
+    git clone https://github.com/SpiderMan-XiaoDo/bag-of-visual-word-finger-classifier.git
 ```
 ## Introduction
 
