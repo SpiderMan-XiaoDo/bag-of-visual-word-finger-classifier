@@ -4,6 +4,13 @@ This project will aim to robust image classifier model tailored for short finger
 
 This project was create by Nguyen Luon Mong Do.
 In this project, I will employ the Scale-Invariant Feature Transform (SIFT) for feature extraction, integrate it with K-Means clustering to construct a Bag of Visual Words (BoVW) framework. Subsequently, I will employ either the K-Nearest Neighbors (KNN) or Support Vector Machine (SVM) model for image classification.
+
+## Installation
+
+Clone this respository
+```
+    pip install https://github.com/SpiderMan-XiaoDo/bag-of-visual-word-finger-classifier.git
+```
 ## Introduction
 
 I will create the classifier model with the following workflow:
@@ -45,4 +52,5 @@ Results of classification obtained using the SVM classification model applying t
 
 ## References
 [1] Abdellatif Hajraoui, Mohamed Sabri, “Face Detection Algorithm based on Skin.
+
 [2] Object Recognition from Local Scale-Invariant Features, David G. Lowe.
